@@ -18,19 +18,7 @@ A classic Snake Game built using **HTML, CSS, and JavaScript** as a hands-on Jav
 - HTML5
 - CSS3
 - JavaScript
-- Browser Local Storage
-
-## 🚀 Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Start playing!
+- Browser Local Storage 
 
 ## 📚 What I Practiced
 
@@ -42,6 +30,10 @@ This project helped me practice JavaScript concepts through game development, in
 - Game logic and state management
 - Random number generation
 - Timers and intervals
+
+## Start playing!
+
+https://khadija-tariq-pro.github.io/Snake-Game/
 - Local Storage
 - Working with grid-based layouts
 
