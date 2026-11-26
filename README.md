@@ -30,13 +30,13 @@ This project helped me practice JavaScript concepts through game development, in
 - Game logic and state management
 - Random number generation
 - Timers and intervals
-
-## Start playing!
-
-https://khadija-tariq-pro.github.io/Snake-Game/
 - Local Storage
 - Working with grid-based layouts
 
 ---
+
+## Start playing!
+
+https://khadija-tariq-pro.github.io/Snake-Game/
 
 **A JavaScript practice project focused on strengthening programming logic and understanding interactive web development.**
